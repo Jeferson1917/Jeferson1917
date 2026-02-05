@@ -25,7 +25,7 @@ A comprehensive enterprise platform developed for **SergipeTec** to monitor inst
 
 #### 👁️ VizyTech - Assistive AI Startup
 An virtual assistant designed to empower visually impaired users in digital environments.
-* **Recognition:** 1st Place at Expo Favela SE | 3rd Place at PICS UFS | Best AI Award (Cifra.IA).
+* **Recognition:** 1st Place at Expo Favela SE | 3rd Place at PICS UFS.
 * **Impact:** Leveraging technology to promote digital accessibility and social inclusion.
 
 ---
@@ -33,7 +33,7 @@ An virtual assistant designed to empower visually impaired users in digital envi
 ### 🏆 Academic & Competitive Highlights
 * **Mathematics:** 2x Bronze Medalist at **OBMEP** (Brazilian Math Olympiad).
 * **Astronomy:** 2x Gold Medalist at **OBA** (Brazilian Astronomy Olympiad).
-* **Innovation:** Awarded "Best AI" at Cifra.IA Hackathon 2024.
+* **Innovation:** Awarded a Hackathon 2024.
 
 ---
 
