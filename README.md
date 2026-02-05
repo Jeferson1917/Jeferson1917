@@ -24,7 +24,7 @@ A comprehensive enterprise platform developed for **SergipeTec** to monitor inst
 * **Stack:** .NET 8, C#, PostgreSQL, Docker, Nginx.
 
 #### 👁️ VizyTech - Assistive AI Startup
-An AI-powered assistant designed to empower visually impaired users in digital environments.
+An virtual assistant designed to empower visually impaired users in digital environments.
 * **Recognition:** 1st Place at Expo Favela SE | 3rd Place at PICS UFS | Best AI Award (Cifra.IA).
 * **Impact:** Leveraging technology to promote digital accessibility and social inclusion.
 
