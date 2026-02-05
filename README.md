@@ -17,7 +17,7 @@ I am a Developer dedicated to building scalable enterprise solutions and high-pe
 
 ### 📂 Featured Projects
 
-#### 📊 Management Contract System (Contrato de Gestão) | [Technical Case Study](https://github.com/Jeferson1917/projeto-gestao-case)
+#### 📊 Management Contract System (Contrato de Gestão) | [Technical Case Study](https://github.com/Jeferson1917/management-system-case-study)
 A comprehensive enterprise platform developed for **SergipeTec** to monitor institutional goals and generate performance reports for government stakeholders.
 * **My Role:** Lead Developer (End-to-End). Responsible for requirements gathering, database modeling (PostgreSQL), Backend/Frontend implementation, and DevOps orchestration.
 * **Key Features:** Automated reporting, secure corporate authentication, and reverse proxy management.
