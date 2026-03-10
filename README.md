@@ -40,6 +40,4 @@ An virtual assistant designed to empower visually impaired users in digital envi
 ### 📫 Let's Connect
 * **Email:** jeferson.filho@dcomp.ufs.br
 * **LinkedIn:** https://www.linkedin.com/in/jeferson-gonzaga-97939b325/
-* **Location:** Aracaju, Brazil 🇧🇷 (Open to relocation to 🇳🇱 🇬🇧 🇰🇷 🇨🇭)
-
-*"Turning complex mathematical logic into efficient, maintainable code."*
+* **Location:** Aracaju, Brazil 🇧🇷 
