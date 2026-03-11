@@ -1,43 +1,43 @@
 # Hi, I'm Jeferson Gonzaga 👋 
 
-**Backend-Focused Software Engineer | Computer Science @ UFS | Math Medalist**
+**Software Engineer | Backend & Infrastructure | Mathematics Medalist**
 
-I am a Developer dedicated to building scalable enterprise solutions and high-performance backend systems. Currently, I work as a **Junior Developer at SergipeTec**, where I leverage the **.NET 8 ecosystem** to solve complex institutional challenges. I am also the co-founder of **VizyTech**, an award-winning startup focused on Assistive Technology.
+I am a Software Engineer dedicated to building scalable enterprise solutions and high-performance backend systems. Currently, I work at SergipeTec (Technological Park), where I leverage the **.NET 8 ecosystem** and **Java/Spring** to solve complex institutional challenges. 
+
+I am also the co-founder of **VizyTech**, an award-winning startup focused on Assistive Technology, recognized for technical innovation and social impact.
 
 ---
 
 ### 🛠️ Technical Arsenal
-* **Languages:** C# (.NET 8), Java, Python, SQL, JavaScript.
-* **Backend:** ASP.NET Core, Entity Framework Core, RESTful APIs, N-Tier Architecture.
-* **DevOps & Infra:** Docker, Docker Compose, Nginx (Reverse Proxy), CI/CD basics.
-* **Frontend:** React, HTML5, CSS3, high-fidelity UI implementation.
-* **Process:** Agile/Scrum, Git Flow (Branches, PRs, Code Reviews).
+* **Backend:** C# (.NET 8), Java (Spring Boot), Python, ASP.NET Core, EF Core, RESTful APIs.
+* **Architecture:** N-Tier Architecture, Clean Code, SOLID, Database Modeling (PostgreSQL/SQL Server).
+* **Cloud & DevOps:** Docker, Docker Compose, Nginx (Reverse Proxy), Linux (Bash), GitFlow.
+* **Frontend:** React, High-fidelity UI implementation.
 
 ---
 
 ### 📂 Featured Projects
 
-#### 📊 Management Contract System (Contrato de Gestão) | [Technical Case Study](https://github.com/Jeferson1917/management-system-case-study)
-A comprehensive enterprise platform developed for **SergipeTec** to monitor institutional goals and generate performance reports for government stakeholders.
-* **My Role:** Lead Developer (End-to-End). Responsible for requirements gathering, database modeling (PostgreSQL), Backend/Frontend implementation, and DevOps orchestration.
-* **Key Features:** Automated reporting, secure corporate authentication, and reverse proxy management.
-* **Stack:** .NET 8, C#, PostgreSQL, Docker, Nginx.
+#### 📊 Management Contract System | [Technical Case Study](https://github.com/Jeferson1917/management-system-case-study)
+A comprehensive enterprise platform developed for **SergipeTec** to monitor institutional goals and performance reports.
+* **Impact:** Lead Developer responsible for the full lifecycle: from database modeling to **Dockerized deployment** with Nginx.
+* **Key Tech:** .NET 8, PostgreSQL, Docker, Nginx, Automated Reporting.
 
 #### 👁️ VizyTech - Assistive AI Startup
 An virtual assistant designed to empower visually impaired users in digital environments.
 * **Recognition:** 1st Place at Expo Favela SE | 3rd Place at PICS UFS.
-* **Impact:** Leveraging technology to promote digital accessibility and social inclusion.
+* **Stack:** Python, AI integration, Accessibility-first UX.
 
 ---
 
 ### 🏆 Academic & Competitive Highlights
-* **Mathematics:** 2x Bronze Medalist at **OBMEP** (Brazilian Math Olympiad).
-* **Astronomy:** 2x Gold Medalist at **OBA** (Brazilian Astronomy Olympiad).
-* **Innovation:** Awarded a Hackathon 2024.
+* **Mathematics:** 2x Bronze Medalist at **OBMEP** (National Math Olympiad).
+* **Astronomy:** 2x Gold Medalist at **OBA** (National Astronomy Olympiad).
+* **Education:** B.S. in Computer Science @ UFS (Expected 2027).
+* **English:** C1 Advanced (EF SET Certified).
 
 ---
 
 ### 📫 Let's Connect
-* **Email:** jeferson.filho@dcomp.ufs.br
-* **LinkedIn:** https://www.linkedin.com/in/jeferson-gonzaga-97939b325/
-* **Location:** Aracaju, Brazil 🇧🇷 
+* **LinkedIn:** [linkedin.com/in/jeferson-gonzaga](https://www.linkedin.com/in/jeferson-gonzaga-97939b325/)
+* **Location:** Aracaju, Brazil 🇧🇷 (Open to Global Relocation in 2027)
